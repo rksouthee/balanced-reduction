@@ -9,6 +9,9 @@ of recursive algorithms. A similar technique is used in the Linux kernel for
 I have written an article on Balanced Reduction which can be found
 [here](https://rksouthee.github.io/2019/07/26/balanced-reduction.html)
 
+In the future I'd like to benchmark these algorithms against the recursive
+versions.
+
 ## Exercises
 
 ### Sort List
